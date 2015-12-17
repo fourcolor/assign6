@@ -24,7 +24,7 @@ class Fighter{
     }
     if (isMovingDown) {
       this.move(Direction.DOWN);  
-    }
+    } 
     if (isMovingLeft) {
       this.move(Direction.LEFT);
     }
